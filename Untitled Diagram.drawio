@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T10:36:48.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="OhOIApZwLJvInz3S44T7" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T10:44:41.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="2dwKgaRs60n8q3iolGob" version="20.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="942" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,13 +16,13 @@
         <mxCell id="NDddO5jCKR1wdwVJ36uS-4" value="Regist" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="430" y="180" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NDddO5jCKR1wdwVJ36uS-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NDddO5jCKR1wdwVJ36uS-5" value="we can upload nft and about this picture/article" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="400" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NDddO5jCKR1wdwVJ36uS-6" value="Board" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="370" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NDddO5jCKR1wdwVJ36uS-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NDddO5jCKR1wdwVJ36uS-8" value="user can modify this information&lt;br&gt;and other user&#39;s info&lt;br&gt;can view" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="400" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="NDddO5jCKR1wdwVJ36uS-9" value="userInfo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -53,6 +53,31 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="500" as="sourcePoint" />
             <mxPoint x="380" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NDddO5jCKR1wdwVJ36uS-14" value="can view other payment transaction" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="40" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NDddO5jCKR1wdwVJ36uS-15" value="Transaction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NDddO5jCKR1wdwVJ36uS-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NDddO5jCKR1wdwVJ36uS-1" target="NDddO5jCKR1wdwVJ36uS-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="160" as="sourcePoint" />
+            <mxPoint x="310" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NDddO5jCKR1wdwVJ36uS-17" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.017;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NDddO5jCKR1wdwVJ36uS-5" target="NDddO5jCKR1wdwVJ36uS-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="330" as="sourcePoint" />
+            <mxPoint x="670" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="330" />
+              <mxPoint x="760" y="80" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
